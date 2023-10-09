@@ -1,0 +1,14 @@
+C:\Users\alexi\source\repos\TimeCupOfTea\TimeCupOfTea\obj\Debug\net7.0\TimeCupOfTea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\source\repos\TimeCupOfTea\TimeCupOfTea\obj\Debug\net7.0\TimeCupOfTea.AssemblyInfoInputs.cache
+C:\Users\alexi\source\repos\TimeCupOfTea\TimeCupOfTea\obj\Debug\net7.0\TimeCupOfTea.AssemblyInfo.cs
+C:\Users\alexi\source\repos\TimeCupOfTea\TimeCupOfTea\obj\Debug\net7.0\TimeCupOfTea.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\TimeCupOfTea\TimeCupOfTea\bin\Debug\net7.0\TimeCupOfTea.exe
+C:\Users\alexi\source\repos\TimeCupOfTea\TimeCupOfTea\bin\Debug\net7.0\TimeCupOfTea.deps.json
+C:\Users\alexi\source\repos\TimeCupOfTea\TimeCupOfTea\bin\Debug\net7.0\TimeCupOfTea.runtimeconfig.json
+C:\Users\alexi\source\repos\TimeCupOfTea\TimeCupOfTea\bin\Debug\net7.0\TimeCupOfTea.dll
+C:\Users\alexi\source\repos\TimeCupOfTea\TimeCupOfTea\bin\Debug\net7.0\TimeCupOfTea.pdb
+C:\Users\alexi\source\repos\TimeCupOfTea\TimeCupOfTea\obj\Debug\net7.0\TimeCupOfTea.dll
+C:\Users\alexi\source\repos\TimeCupOfTea\TimeCupOfTea\obj\Debug\net7.0\refint\TimeCupOfTea.dll
+C:\Users\alexi\source\repos\TimeCupOfTea\TimeCupOfTea\obj\Debug\net7.0\TimeCupOfTea.pdb
+C:\Users\alexi\source\repos\TimeCupOfTea\TimeCupOfTea\obj\Debug\net7.0\TimeCupOfTea.genruntimeconfig.cache
+C:\Users\alexi\source\repos\TimeCupOfTea\TimeCupOfTea\obj\Debug\net7.0\ref\TimeCupOfTea.dll
